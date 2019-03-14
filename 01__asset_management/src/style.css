@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./JianKeMaoBiXingShu-2.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+.hello {
+  color: red;
+  font-family: 'MyFont';
+  height: 100px;
+  width: 100px;
+  background-image: url('./dog.jpg');
+  background-size: cover;
+}
