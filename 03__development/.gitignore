@@ -1,0 +1,4 @@
+node_modules
+.vscode
+.ideal
+npm-debug.log
