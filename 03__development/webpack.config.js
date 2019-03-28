@@ -10,7 +10,8 @@ module.exports = {
     app: './src/index.js',
     print: './src/print.js'
   },
-  devtool: 'inline-source-map',
+  // devtool: 'source-map',
+  devtool: 'cheap-module-source-map',
   devServer: {
     // contentBase 告诉服务器从哪个目录中提供内容。只有在你想要提供静态文件时才需要。
     contentBase: './dist'
