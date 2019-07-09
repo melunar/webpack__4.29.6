@@ -11,3 +11,5 @@
 第3章 [开发环境](https://github.com/melunar/webpack__4.29.6/blob/master/03__development/note.md)
 
 第3.ex章 [开发(/生产)环境](https://github.com/melunar/webpack__4.29.6/blob/master/03.ex__development/note.md)
+
+第4章 [代码分离](https://github.com/melunar/webpack__4.29.6/blob/master/04__code_split/note.md)
